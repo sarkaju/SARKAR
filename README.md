@@ -9,7 +9,7 @@
 
 <p align="center"><a href="https://t.me/Beastupcoming_support"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://app.codacy.com/manual/teamdaisyx/daisyx/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://app.codacy.com/manual/sarkaju/SARKAR/dashboard"> <img src="https://telegra.ph/file/37942a05e94e545552409.jpg" alt="Codacy" /></a>
     <a href="https://github.com/sarkaju/SARKAR"> <img src="https://img.shields.io/github/repo-size/teamdaisyx/daisyx?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/sarkaju/SARKAR/commits/inukaasith"> <img src="https://img.shields.io/github/last-commit/sarkaju/SARKAR?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/sarkaju/SARKAR/issues"> <img src="https://img.shields.io/github/issues/sarkaju/SARKAR?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
